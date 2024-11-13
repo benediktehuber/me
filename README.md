@@ -1,1 +1,6 @@
-# benedikteghuber.github.io
+# Benedikte Grundtvig Huber
+
+
+### Education
+
+
