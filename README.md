@@ -4,4 +4,4 @@
 ### Education
 
 
-![me](/assets/img/IMG_3022.JPG)
+![me](/assets/IMG_3022.JPG)
