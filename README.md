@@ -2,7 +2,3 @@
 
 ### Education
 
-- i dont know
-
-
-### Education
