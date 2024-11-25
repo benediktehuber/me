@@ -1,2 +1,18 @@
-title: Benedikte Grundtvig Huber
-theme: jekyll-theme-minimal
+title: "Benedikte Grundtvig Huber"  # The title of your site
+description: "Personal site for Benedikte Grundtvig Huber."  # Optional: meta description for search engines
+author: "Benedikte Grundtvig Huber"  # Your name
+theme: jekyll-theme-minimal  # Chosen Jekyll theme
+baseurl: ""  # Leave blank for user/organization site, or set to "/repo-name" for project site
+url: "https://your-github-username.github.io"  # Replace with your GitHub Pages URL
+markdown: kramdown  # Recommended Markdown processor for Jekyll
+
+# Optional configurations
+plugins:  # Add plugins here if needed (e.g., for SEO, analytics)
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social links (optional)
+social:
+  email: "your-email@example.com"
+  github: "https://github.com/your-username"
+  linkedin: "https://www.linkedin.com/in/your-profile"
